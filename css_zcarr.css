@@ -1,0 +1,173 @@
+body {
+	background-color: rgba(168, 33, 33, 0);
+}
+#main1 {
+	/*for full screen background image*/
+	background-image: url(bg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	margin: -16px -8px -12px -8px;
+}
+.contain {
+	/*for front page divisions*/
+	height: 100%;
+	width: 100%;
+}
+#div1 {
+	/*for menu division*/
+	float: left;
+	height: 100vh;
+	width: 28%;
+	background: rgba(0%, 0%, 0%, 0.85);
+	color: white;
+}
+#div4 {
+	/*for open space division*/
+	float: left;
+	height: 100vh;
+	width: 42%;
+}
+#div5 {
+	/*for image division*/
+	float: left;
+	height: 100vh;
+	width: 30%;
+}
+#p1 {
+	/*Andrew Milburn*/
+	font-size: 6.5vh;
+	text-align: right;
+	padding: 6vh 20px 0px 20px;
+	margin: 0px 0px 0px 0px;
+	font-family: Helvetica;
+}
+#h1 {
+	/*petroleum engineering.*/
+	text-align: right;
+	padding: 27px 20px 30px 20px;
+	margin: 0px 0px 0px 0px;
+	font-family: Helvetica;
+	letter-spacing: 2.5px;
+	font-size: 2vh;
+}
+#h6 {
+	/*petroleum engineering.*/
+	text-align: right;
+	padding: 27px 20px 0px 20px;
+	margin: 0px 0px 0px 0px;
+	font-family: Helvetica;
+	letter-spacing: 2.5px;
+	font-size: 2vh;
+}
+#h5 {
+	/*randon needed*/
+	text-align: right;
+	padding: 1px 20px 30px 20px;
+	margin: 0px 0px 0px 0px;
+	font-family: Helvetica;
+	letter-spacing: 2.5px;
+	font-size: 2vh;
+}
+#div3 {
+	/*menu*/
+	padding: 1vh 20px 0px 20px;
+}
+.menu {
+	text-align: right;
+	font-family: Helvetica;
+	font-size: 2vh;
+	letter-spacing: 0.5px;
+	color: lightgrey;
+	padding: 1.5vh 0px 0px 0px;
+}
+#div6 {
+	/*styling image division*/
+	background: rgba(0%, 0%, 0%, 0.85);
+	height: 100vh;
+	/*box-shadow: 0px 0px 10px black;*/
+}
+img {
+	width: 20vw;
+	display: block;
+	margin: auto;
+	padding: 12vh 0px 0px 0px;
+}
+#div7 {
+	/*styling introduction paragraph*/
+	display: block;
+	margin-top: 0vh;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 1px 20px 1px 20px;
+	font-family: Helvetica;
+	height: auto;
+}
+#p2 {
+	/*introduction paragraph*/
+	color: lightgrey;
+	letter-spacing: 0.5px;
+	font-size: 1.0vw;
+	line-height: 2.25vw;
+}
+#div8 {
+	/*separation bars*/
+	float: left;
+	width: 100%;
+	background-color: #9c3b3b;
+	height: 3px;
+}
+#div10 {
+	/*heading left*/
+	float: left;
+	width: 28%;
+	background-color: #9c3b3b;
+}
+#div11 {
+	/*content right*/
+	float: left;
+	width: 72%;
+	background: rgba(0%, 0%, 0%, 0.85);
+}
+#p3 {
+	/*content para style*/
+	color: lightgrey;
+	letter-spacing: 0.5px;
+	font-size: 14px;
+	line-height: 25px;
+	font-family: Helvetica;
+	padding: 0px 13.5vw 0px 20px;
+}
+a {
+	color: lightgrey;
+}
+#p4 {
+	/*content para style*/
+	color: lightgrey;
+	letter-spacing: 0.5px;
+	font-size: 14px;
+	line-height: 25px;
+	font-family: Helvetica;
+	padding: 0px 0vw 0px 20px;
+}
+#p5 {
+	/*content para style*/
+	color: lightgrey;
+	letter-spacing: 0.5px;
+	font-size: 14px;
+	line-height: 25px;
+	font-family: Helvetica;
+	padding: 0px 0vw 0px 20px;
+}
+#para3 {
+	/*for developer footer*/
+	color: white;
+	background: rgba(0%, 0%, 0%, 0.85);
+	padding: 1px 25px 1px 25px;
+	font-family: Helvetica;
+	text-align: right;
+	font-size: 12px;
+}
+#a2 {
+	color: #9c3b3b;
+}
