@@ -174,21 +174,10 @@ a {
 @media(max-width:748px){
 	#main1 {
 	background-image: none;
-	background: #000000;
-
+	background: #D3D3D3;
 	}
-	
-	#div7 p {
-	font-size: 12px;
-	}
-	
 	#div1 img {
 		width: 175px;
 	}
-	#h1 {
-		text-align: left;
-	}
-	#div10 h5 {
-		text-align: left;
-	}
+	
 }
