@@ -177,10 +177,10 @@ a {
 	background: #000000;
 
 	}
-	#main1 h1 {
-		font-size: 2em;
+	#main1 h5 {
+	text-align: left;
 	}
 	#main1 div10 {
-		font-size: 1.5rem;
+		width: 20%;
 	}
 }
