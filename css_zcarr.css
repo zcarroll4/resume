@@ -183,14 +183,16 @@ a {
 	#main1 div10 {
 		width: 20%;
 	}
-	#main1 div7 {
-		font-size: 30px;
+	
+	#div7 {
+	font-family: Helvetica;
+	width: 250px;
+	}
+	#p2 {
+		font-size: 10px;
 	}
 	#div1 img {
 		width: 175px;
 	}
-	#p2 {
-		font-size: 12px;
-		font-family: Helvetica;
-	}
+	
 }
