@@ -171,3 +171,8 @@ a {
 #a2 {
 	color: #9c3b3b;
 }
+@media only screen and (max-width:600px){
+	.main {
+	background-image: none;
+	}
+}
