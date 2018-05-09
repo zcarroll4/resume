@@ -183,4 +183,10 @@ a {
 	#main1 div10 {
 		width: 20%;
 	}
+	#main1 div7 {
+		font-size: 30px;
+	}
+	#div1 img {
+		width: 250px;
+	}
 }
