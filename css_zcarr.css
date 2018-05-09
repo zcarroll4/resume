@@ -193,5 +193,7 @@ a {
 	#div1 img {
 		width: 175px;
 	}
-	
+	#h1 {
+		text-align: left;
+	}
 }
