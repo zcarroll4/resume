@@ -179,7 +179,8 @@ a {
 	#div1 img {
 		width: 175px;
 	}
-	#h1{
+	#div10 h5{
 		text-align: left;
+		padding: none;
 	}
 }
