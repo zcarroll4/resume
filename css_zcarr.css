@@ -171,8 +171,14 @@ a {
 #a2 {
 	color: #9c3b3b;
 }
-@media only screen and (max-width:600px){
-	.main1 {
+@media(max-width:600px){
+	#main1 {
 	background-image: none;
+	background: #000000;
+
 	}
+	#main1 h1 {
+		font-size: 2em;
+	}
+	.contain
 }
