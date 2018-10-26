@@ -171,11 +171,12 @@ a {
 #a2 {
 	color: #9c3b3b;
 }
+
 @media(max-width:748px){
-	#main1 {
+	/*#main1 {
 	background-image: none;
 	background: #D3D3D3;
-	}
+	}*/
 	#div1 img {
 		width: 90%;
 	}
