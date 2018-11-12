@@ -12,7 +12,7 @@
 </head>
 <body>
   <div class="top-head">
-    <div id="time"></div>
+    <div id="time" style="text-align:left;"></div>
     <img src="muskingum.png">
   </div>
 <div style="width:100%; text-align: center; background-color: black; color: white; "><h1>Fall Semester 2018</h1></div>
@@ -44,7 +44,7 @@ var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 document.getElementById("demo").innerHTML = days + "d " + hours + "h "
 + minutes + "m " + seconds + "s ";
 
-document.getElementById("time").innerHTML = z +" " + n;
+document.getElementById("time").innerHTML = z +"<br> " + n;
 
 // If the count down is over, write some text 
 if (distance < 0) {
